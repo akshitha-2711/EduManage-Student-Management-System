@@ -1,0 +1,60 @@
+[
+    [
+    {
+        "id": "1",
+        "name": "Alice",
+        "age": 20,
+        "branch": "ECE",
+        "marks": 90
+    },
+    {
+        "id": "2",
+        "name": "Aarav Sharma",
+        "age": 21,
+        "branch": "CSE",
+        "marks": 94.5
+    },
+    {
+        "id": "3",
+        "name": "Priya Nair",
+        "age": 19,
+        "branch": "CSE",
+        "marks": 88
+    },
+    {
+        "id": "4",
+        "name": "Rohan Verma",
+        "age": 22,
+        "branch": "MECH",
+        "marks": 76.5
+    },
+    {
+        "id": "5",
+        "name": "Sneha Reddy",
+        "age": 20,
+        "branch": "ECE",
+        "marks": 84
+    },
+    {
+        "id": "6",
+        "name": "Liam Chen",
+        "age": 21,
+        "branch": "IT",
+        "marks": 96
+    },
+    {
+        "id": "7",
+        "name": "Meera Iyer",
+        "age": 20,
+        "branch": "IT",
+        "marks": 81.5
+    },
+    {
+        "id": "8",
+        "name": "Kabir Patel",
+        "age": 22,
+        "branch": "MECH",
+        "marks": 58
+    }
+]
+]
